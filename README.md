@@ -2,4 +2,4 @@
 
 The circuit diagram for our online weather station is as follows-
 
-![png1](resources/CktDiag.png)
+![JPG1](resources/CktDiag.JPG)
